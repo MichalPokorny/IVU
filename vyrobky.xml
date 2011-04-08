@@ -1,0 +1,44 @@
+<produkty>
+  <produkt kod="J1000" jmeno="Kladivo">
+    <akce poradi="10" stanoviste="3" cas="7" />
+    <akce poradi="20" stanoviste="6" cas="4" />
+    <akce poradi="30" stanoviste="5" cas="2" />
+  </produkt>
+  <produkt kod="J1220" jmeno="Nůž">
+    <akce poradi="10" stanoviste="1" cas="4" />
+    <akce poradi="20" stanoviste="2" cas="3" />
+    <akce poradi="30" stanoviste="8" cas="1" />
+    <akce poradi="40" stanoviste="9" cas="5" />
+  </produkt>
+  <produkt kod="J1350" jmeno="Kleště">
+    <akce poradi="10" stanoviste="7" cas="4" />
+    <akce poradi="20" stanoviste="8" cas="1" />
+    <akce poradi="30" stanoviste="2" cas="4" />
+  </produkt>
+  <produkt kod="J2000" jmeno="Šroubovák">
+    <akce poradi="10" stanoviste="1" cas="1" />
+    <akce poradi="20" stanoviste="2" cas="1" />
+    <akce poradi="30" stanoviste="4" cas="3" />
+  </produkt>
+  <produkt kod="T1600" jmeno="Papír A5">
+    <akce poradi="10" stanoviste="3" cas="1" />
+    <akce poradi="20" stanoviste="5" cas="1" />
+    <akce poradi="30" stanoviste="1" cas="1" />
+    <akce poradi="40" stanoviste="4" cas="1" />
+    <akce poradi="50" stanoviste="1" cas="1" />
+  </produkt>
+  <produkt kod="T1700" jmeno="Papír A4">
+    <akce poradi="10" stanoviste="3" cas="1" />
+    <akce poradi="20" stanoviste="6" cas="10" />
+  </produkt>
+  <produkt kod="T1740" jmeno="Papír">
+    <akce poradi="10" stanoviste="5" cas="5" />
+    <akce poradi="20" stanoviste="7" cas="5" />
+    <akce poradi="25" stanoviste="1" cas="1" />
+    <akce poradi="30" stanoviste="3" cas="1" />
+  </produkt>
+  <produkt kod="T1800" jmeno="Papír A3">
+    <akce poradi="10" stanoviste="5" cas="6" />
+    <akce poradi="20" stanoviste="4" cas="8" />
+  </produkt>
+</produkty>
