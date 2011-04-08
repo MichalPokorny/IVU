@@ -1,0 +1,16 @@
+C:\bla\PasovaVyroba\PasovaVyroba\bin\Release\PasovaVyroba.exe
+C:\bla\PasovaVyroba\PasovaVyroba\bin\Release\PasovaVyroba.pdb
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\ResolveAssemblyReference.cache
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.MainForm.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.ProductEditationForm.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.Properties.Resources.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\GenerateResource.read.1.tlog
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\GenerateResource.write.1.tlog
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.exe
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.pdb
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.SimulationControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.WorkplaceControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.CarrierControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.EndControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.StartControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Release\PasovaVyroba.SwapspaceControl.resources

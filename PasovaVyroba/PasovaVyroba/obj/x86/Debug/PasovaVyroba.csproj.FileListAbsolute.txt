@@ -1,0 +1,26 @@
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\bin\Debug\PasovaVyroba.exe
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\bin\Debug\PasovaVyroba.pdb
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\PasovaVyroba.MainForm.resources
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\PasovaVyroba.ProductEditationForm.resources
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\PasovaVyroba.Properties.Resources.resources
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\PasovaVyroba.exe
+C:\Users\prvak\AppData\Local\Temporary Projects\PasovaVyroba\obj\x86\Debug\PasovaVyroba.pdb
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.exe
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.pdb
+C:\bla\PasovaVyroba\PasovaVyroba\bin\Debug\PasovaVyroba.exe
+C:\bla\PasovaVyroba\PasovaVyroba\bin\Debug\PasovaVyroba.pdb
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.MainForm.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.ProductEditationForm.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.Properties.Resources.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.SimulationControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.WorkplaceControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.CarrierControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.EndControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.StartControl.resources
+C:\bla\PasovaVyroba\PasovaVyroba\obj\x86\Debug\PasovaVyroba.SwapspaceControl.resources

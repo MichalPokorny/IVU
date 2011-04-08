@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{5BFCDC9E-F08C-4EE4-B837-A72711EB1AF3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PasovaVyroba</RootNamespace>
+    <AssemblyName>PasovaVyroba</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CarrierControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CarrierControl.Designer.cs">
+      <DependentUpon>CarrierControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EndControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EndControl.Designer.cs">
+      <DependentUpon>EndControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Model.cs" />
+    <Compile Include="ProductEditationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductEditationForm.Designer.cs">
+      <DependentUpon>ProductEditationForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimulationControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SimulationControl.Designer.cs">
+      <DependentUpon>SimulationControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="StartControl.Designer.cs">
+      <DependentUpon>StartControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SwapspaceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="SwapspaceControl.Designer.cs">
+      <DependentUpon>SwapspaceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkplaceControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="WorkplaceControl.Designer.cs">
+      <DependentUpon>WorkplaceControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WorkplaceThread.cs" />
+    <EmbeddedResource Include="CarrierControl.resx">
+      <DependentUpon>CarrierControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EndControl.resx">
+      <DependentUpon>EndControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductEditationForm.resx">
+      <DependentUpon>ProductEditationForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="SimulationControl.resx">
+      <DependentUpon>SimulationControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartControl.resx">
+      <DependentUpon>StartControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SwapspaceControl.resx">
+      <DependentUpon>SwapspaceControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WorkplaceControl.resx">
+      <DependentUpon>WorkplaceControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\Workplace.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\application-x-executable.png" />
+    <Content Include="Resources\appointment-new.png" />
+    <Content Include="Resources\finale.png" />
+    <None Include="Resources\floor_stone.jpg" />
+    <Content Include="Resources\kolej.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
