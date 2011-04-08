@@ -1,0 +1,24 @@
+IVU je legendarni a pomerne slozite zadani pana ucitele Smutneho aka Krakena,
+ktery uci jiz dlouhou dobu na Stredni skole aplikovane informatiky s.r.o. Tento
+program poskytuji pouze za ucely studia. V zadnem pripade neni urceny
+pro kybernety, co se chteji jen vyhnout zkrakenovateni a nula kytickam.
+
+Tento program dokazal ve skolnim roce 2010/11 ziskat znamku 1+.
+
+Ocekava XML seznam vyrobku v C:\bla\vyrobky.xml. Soubor je prilozen.
+Tento program vylepsuje zadani pomoci grafu: umi rozumne vyhledavat
+cesty v libovolne slozitem zadani.
+To, co bude potreba hlavne zmenit, je soubor Model.cs, protoze obsahuje
+popis tovarny, konkretne v konstruktoru. Je dobre vedet, ze v konstruktoru
+se take provadi prepocet z beznych do Smutneho souradnic (ktere sahaji pres
+celou obrazovku) - k zmene vlastnosti zmente konstanty coordinateMultiplier[X|Y].
+
+Ma nekolik znamych bugu:
+- kdyz jsou vsechny konce plne, klidne si prijede na stanoviste pro hotovy vyrobek,
+  a potom ceka misto toho, aby ho nekde odlozil.
+
+- nema nejkrasnejsi mozne graficke zpracovani.
+
+- nehleda nejblizsi odkladiste nebo nejblizsi konec, ale prvni. sice to funguje, ale neni to idealni.
+
+- hleda cestu jako by to byl RIP, ne jako OSPF: zajima ho jenom pocet krizovatek. Ke zmene by stacilo do Model.PathFind pridat vypocet delek.
